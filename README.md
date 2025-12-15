@@ -1,5 +1,5 @@
 # 💫 About Me:
-That's great! Since you have a diverse portfolio including C++ and Python, along with experience in machine learning, here is a paragraph you can use for your "About Me" section.<br><br>💻 About Me<br>I'm a passionate programmer with a strong foundation in both C++ and Python, leveraging my skills to build robust applications and drive innovation. My journey into technology has led me to explore the exciting field of Machine Learning, where I enjoy designing and implementing models that translate data into actionable insights. I'm dedicated to writing clean, efficient code and am always eager to tackle complex challenges. You can explore my work, including various code projects and ML models, on my GitHub profile.
+<br><br>💻 About Me<br>I'm a passionate programmer with a strong foundation in both C++ and Python, leveraging my skills to build robust applications and drive innovation. My journey into technology has led me to explore the exciting field of Machine Learning, where I enjoy designing and implementing models that translate data into actionable insights. I'm dedicated to writing clean, efficient code and am always eager to tackle complex challenges. You can explore my work, including various code projects and ML models, on my GitHub profile.
 
 
 # 💻 Tech Stack:
